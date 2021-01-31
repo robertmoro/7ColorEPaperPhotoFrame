@@ -53,7 +53,7 @@ Right click image and select
 - Use mouse and or size and position fields
 - Press Enter to apply the crop or Esc to leave the Crop menu
 
-#### Dither
+### Dither
 Right click image and select
 - Image
 - Mode Indexed
@@ -62,7 +62,7 @@ Right click image and select
 - Select Floyd-Steinberg for Color dithering
 - Press Convert
 
-#### Export as BMP
+### Export as BMP
 Right click image and select
 - File
 - Export as (Shift + Ctrl + E)
