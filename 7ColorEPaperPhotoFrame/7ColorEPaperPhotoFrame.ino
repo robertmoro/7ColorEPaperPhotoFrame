@@ -1,4 +1,4 @@
-#include "Bmp.h"
+#include "bmp.h"
 #include "epd5in65f.h"
 #include <SD.h>
 
