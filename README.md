@@ -3,11 +3,13 @@ Battery operated photo frame using the [Advanced Color ePaper (ACeP™) display 
 
 ## BOM
 - Arduino pro-mini
-- SD card reader
-- LDR
-- FET ()
-- Capacitor 220uF or bigger
-- 3.3 volt mini boost converter
+- SD card reader (images storage)
+- LDR (to not change the image in the dark)
+- FET (to switch off the SD card reader)
+- 2x AA of 2x AAA battery holder 
+- 3.3 volt mini boost converter as power supply
+- Capacitor 220uF or bigger (power supply filter)
+- Capacitor 100nF (power supply filter)
 
 To make the Adruino and SD card reader low power, remove the voltage regulator.
 
