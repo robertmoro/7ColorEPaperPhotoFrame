@@ -21,7 +21,7 @@ Pins Arduino <=> SD Card module
 - 12 - MISO / DO
 - 13 - SCK / CLK
 - GND - GND
-- 3.3 - 3.3V
+- Power 3.3 - 3.3V
 
 Pins Arduino <=> 7 color e-paper display
 - 7 - BUSY
