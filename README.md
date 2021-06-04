@@ -17,8 +17,8 @@ To make the Adruino and SD card reader low power, remove the voltage regulator.
 ## Wire up the Display, and SD-card reader to the Arduino (Uno / Nano / Pro-Mini)
 Pins Arduino <=> SD Card module
 - 10 - CS / SS
-- 11 - MOSI
-- 12 - MISO
+- 11 - MOSI / DI
+- 12 - MISO / DO
 - 13 - SCK / CLK
 - GND - GND
 - 3.3 - 3.3V
