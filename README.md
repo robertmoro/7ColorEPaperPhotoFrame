@@ -2,12 +2,13 @@
 Battery operated photo frame using the [Advanced Color ePaper (ACeP™) display from Waveshare](https://www.waveshare.com/wiki/5.65inch_e-Paper_Module_(F)). The display has seven colors and measure 5.56 inch, 600 by 448 pixels. Overall dimensions: 125.4 x 99.5 x 9mm (WxHxD, depth includes header and display). Display usable area dimensions: 114.9 x 85.8mm (WxH). The images are preprocessed using [Floyd-Steinberg dithering](https://www.waveshare.com/wiki/E-Paper_Floyd-Steinberg) to reduce to 7 colors and still have a reasonable quality and stored on a SD-card. An Arduino is used to read from the SD-card and write to the display. [lenna.bmp](https://github.com/robertmoro/7ColorEPaperPhotoFrame/blob/main/lenna.bmp) is a ready to use example image.
 
 ## BOM
+- [7 Color ePaper display](https://www.waveshare.com/wiki/5.65inch_e-Paper_Module_(F))
 - Arduino pro-mini
 - SD card reader (images storage)
 - LDR (to not change the image in the dark)
 - FET (to switch off the SD card reader)
 - 2x AA of 2x AAA battery holder 
-- 3.3 volt mini boost converter as power supply
+- [3.3 volt mini boost converter as power supply](https://www.ebay.com/itm/282029936915?hash=item41aa4b5113:g:iCQAAOSwlR9a22vT)
 - Capacitor 220uF or bigger (power supply filter)
 - Capacitor 100nF (power supply filter)
 
