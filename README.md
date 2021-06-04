@@ -21,7 +21,7 @@ Pins Arduino <=> SD Card module
 - 12 - MISO / DO
 - 13 - SCK / CLK
 - GND - GND
-- Power 3.3 - 3.3V
+- Vcc - 3.3V
 
 Pins Arduino <=> 7 color e-paper display
 - 7 - BUSY
@@ -31,7 +31,7 @@ Pins Arduino <=> 7 color e-paper display
 - 13 - CLK
 - 11 - DIN
 - GND - GND
--VCC - 3.3V
+- Vcc - 3.3V
 
 ## Prepare the images using Gimp
 Start [Gimp](https://www.gimp.org/) and drag the image to be processed into the application.
