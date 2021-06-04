@@ -8,7 +8,7 @@ Battery operated photo frame using the [Advanced Color ePaper (ACeP™) display 
 - LDR (to not change the image in the dark)
 - FET (to switch off the SD card reader)
 - 2x AA of 2x AAA battery holder 
-- [3.3 volt mini boost converter as power supply](https://www.ebay.com/itm/282029936915?hash=item41aa4b5113:g:iCQAAOSwlR9a22vT)
+- [3.3 volt mini boost converter](https://www.ebay.com/itm/282029936915?hash=item41aa4b5113:g:iCQAAOSwlR9a22vT) (power supply)
 - Capacitor 220uF or bigger (power supply filter)
 - Capacitor 100nF (power supply filter)
 
