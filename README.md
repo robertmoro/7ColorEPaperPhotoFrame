@@ -11,6 +11,7 @@ Battery operated photo frame using the [Advanced Color ePaper (ACeP™) display 
 - [3.3 volt mini boost converter](https://www.ebay.com/itm/282029936915?hash=item41aa4b5113:g:iCQAAOSwlR9a22vT) (power supply)
 - Capacitor 220uF or bigger (power supply filter)
 - Capacitor 100nF (power supply filter)
+- [3D printed frame](https://www.thingiverse.com/thing:4879693)
 
 To make the Adruino and SD card reader low power, remove the voltage regulator.
 
