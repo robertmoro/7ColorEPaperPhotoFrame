@@ -49,7 +49,7 @@ Use the palette editor to create a seven color palette
 |6. |Yellow	|0b101	|0x5	|255,255,0	|
 |7. |Orange	|0b110	|0x6	|255,128,0	|
 
-![Gimp Palette Editor](https://github.com/robertmoro/7ColorEPaperPhotoFrame/tree/main/DocumentationImages/GimpExportImage.png)
+![Gimp Palette Editor](https://github.com/robertmoro/7ColorEPaperPhotoFrame/tree/main/DocumentationImages/GimpExportImage.png?raw=true)
 
 ### Resize and crop
 Resize to 600 width or 448 height so an 600 by 448 image can be cropped.
@@ -87,4 +87,4 @@ Right click image and select
 - Under 'Compatibility options' select 'Do not write color space information'
 - Click Export
 
-![Gimp Palette Editor](https://github.com/robertmoro/7ColorEPaperPhotoFrame/tree/main/DocumentationImages/GimpExportImage.png)
+![Gimp Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpExportImage.png)
