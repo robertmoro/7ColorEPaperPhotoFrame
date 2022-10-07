@@ -50,6 +50,18 @@ Use the palette editor to create a seven color palette
 |7. |Orange	|0b110	|0x6	|255,128,0	|
 
 ![Gimp Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpPaletteEditor.png)
+*GIMP Palatte Editor dialog*
+
+### Rearrange the colormap
+Make sure that the color are arranged in the correct order in the Rearrange Colormap dialog.
+Right click image and select
+- Colors >
+- Map>
+- Rearrange Colormap...
+- Make sure the colors are ordered as mentioned above in the color palette
+
+![Gimp Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpRearrangeColormap.png)
+*Rearrange Colormap dialog*
 
 ### Resize and crop
 Resize to 600 width or 448 height so an 600 by 448 image can be cropped.
