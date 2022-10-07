@@ -54,7 +54,7 @@ Use the palette editor to create a seven color palette
 
 ### Rearrange the colormap
 Make sure that the color are arranged in the correct order in the Rearrange Colormap dialog.<br/>
-Right click image and select
+Main menu or right click image and select
 - Colors >
 - Map >
 - Rearrange Colormap...
@@ -67,14 +67,14 @@ Right click image and select
 Resize to 600 width or 448 height so an 600 by 448 image can be cropped.
 
 #### Resize
-Right click image and select
+Main menu or right click image and select
 - Image >
 - Scale Image...
 - Provide width and or height
 - Press Scale to apply the selection
 
 #### Crop
-Right click image and select 
+Main menu or right click image and select 
 - Tools
 - Transform Tools
 - Crop (Shift C)
@@ -82,7 +82,7 @@ Right click image and select
 - Press Enter to apply the crop or Esc to leave the Crop menu
 
 ### Dither
-Right click image and select
+Main menu or right click image and select
 - Image
 - Mode Indexed
 - Use custom pallete
@@ -91,7 +91,7 @@ Right click image and select
 - Press Convert
 
 ### Export as BMP
-Right click image and select
+Main menu or right click image and select
 - File
 - Export as (Shift + Ctrl + E)
 - Type a filename and give it the bmp extension
@@ -100,4 +100,4 @@ Right click image and select
 - Click Export
 
 ![GIMP Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpExportImage.png)<br/>
-*GIMP Palette Editor dialog*
+*GIMP Export Image as BMP dialog*
