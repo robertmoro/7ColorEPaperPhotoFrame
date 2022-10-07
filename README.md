@@ -50,7 +50,7 @@ Use the palette editor to create a seven color palette
 |7. |Orange	|0b110	|0x6	|255,128,0	|
 
 <figure>
-  <img src="{{[site.url](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpPaletteEditor.png)}}/assets/image.jpg" alt="Gimp Palette Editor"/>
+  <img src="{{https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpPaletteEditor.png}}/assets/image.jpg" alt="Gimp Palette Editor"/>
   <figcaption>GIMP Palatte Editor dialog</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Right click image and select
 - Colors >
 - Map >
 - Rearrange Colormap...
-- Make sure the colors are ordered as mentioned above in the color palette
+- Make sure the colors are ordered as mentioned above in the color palette or the image below.
 
 ![Gimp Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpRearrangeColormap.png)
 *Rearrange Colormap dialog*
