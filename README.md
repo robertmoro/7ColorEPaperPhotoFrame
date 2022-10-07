@@ -53,7 +53,7 @@ Use the palette editor to create a seven color palette
 *GIMP Palatte Editor dialog*
 
 ### Rearrange the colormap
-Make sure that the color are arranged in the correct order in the Rearrange Colormap dialog.<br/>
+Make sure that the colors are arranged in the correct order in the Rearrange Colormap dialog.<br/>
 Main menu or right click image and select
 - Colors >
 - Map >
