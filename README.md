@@ -49,14 +49,19 @@ Use the palette editor to create a seven color palette
 |6. |Yellow	|0b101	|0x5	|255,255,0	|
 |7. |Orange	|0b110	|0x6	|255,128,0	|
 
+<figure>
+  <img src="{{[site.url](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpPaletteEditor.png)}}/assets/image.jpg" alt="Gimp Palette Editor"/>
+  <figcaption>GIMP Palatte Editor dialog</figcaption>
+</figure>
+
 ![Gimp Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpPaletteEditor.png)
 *GIMP Palatte Editor dialog*
 
 ### Rearrange the colormap
-Make sure that the color are arranged in the correct order in the Rearrange Colormap dialog.
+Make sure that the color are arranged in the correct order in the Rearrange Colormap dialog.<br/>
 Right click image and select
 - Colors >
-- Map>
+- Map >
 - Rearrange Colormap...
 - Make sure the colors are ordered as mentioned above in the color palette
 
