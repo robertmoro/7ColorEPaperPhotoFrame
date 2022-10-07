@@ -67,31 +67,32 @@ Main menu or right click image and select
 Resize to 600 width or 448 height so an 600 by 448 image can be cropped.
 
 #### Resize
-Main menu or right click image and select
+Main menu / right click image and select
 - Image >
 - Scale Image...
 - Provide width and or height
 - Press Scale to apply the selection
 
 #### Crop
-Main menu or right click image and select 
-- Tools
-- Transform Tools
-- Crop (Shift C)
+'Shift + C' or main menu / right click image and select 
+- Tools >
+- Transform Tools >
+- Crop (Shift + C)
 - Use mouse and or size and position fields
 - Press Enter to apply the crop or Esc to leave the Crop menu
 
 ### Dither
-Main menu or right click image and select
-- Image
-- Mode Indexed
+Main menu / right click image and select
+- Image >
+- Mode >
+- Indexed...
 - Use custom pallete
 - Select the created 7 color palette
 - Select Floyd-Steinberg for Color dithering
 - Press Convert
 
 ### Export as BMP
-Main menu or right click image and select
+'Shift + Ctrl + E' or main menu / right click image and select
 - File
 - Export as (Shift + Ctrl + E)
 - Type a filename and give it the bmp extension
