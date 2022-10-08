@@ -51,14 +51,14 @@ Use the palette editor to create a seven color palette
 
 ![GIMP Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpPaletteEditor.png)<br/>
 *GIMP Palatte Editor dialog*
-
+  
 ### Rearrange the colormap
 Make sure that the colors are arranged in the correct order in the Rearrange Colormap dialog.<br/>
 Main menu or right click image and select
 - Colors >
 - Map >
 - Rearrange Colormap...
-- Make sure the colors are ordered as mentioned above in the color palette or the image below.
+- Make sure the colors are ordered as mentioned above in the color palette or the image below, and select OK
 
 ![Gimp Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpRearrangeColormap.png)<br/>
 *Rearrange Colormap dialog*
@@ -71,7 +71,7 @@ Main menu / right click image and select
 - Image >
 - Scale Image...
 - Provide width and or height
-- Press Scale to apply the selection
+- Select Scale to apply the selection
 
 #### Crop
 'Shift + C' or main menu / right click image and select 
@@ -79,7 +79,7 @@ Main menu / right click image and select
 - Transform Tools >
 - Crop (Shift + C)
 - Use mouse and or size and position fields
-- Press Enter to apply the crop or Esc to leave the Crop menu
+- Select Enter to apply the crop or Esc to leave the Crop menu
 
 ### Dither
 Main menu / right click image and select
@@ -89,7 +89,7 @@ Main menu / right click image and select
 - Use custom pallete
 - Select the created 7 color palette
 - Select Floyd-Steinberg for Color dithering
-- Press Convert
+- Select Convert
 
 ### Export as BMP
 'Shift + Ctrl + E' or main menu / right click image and select
@@ -98,7 +98,7 @@ Main menu / right click image and select
 - Type a filename and give it the bmp extension
 - Deselect 'run-length encoding'
 - Under 'Compatibility options' select 'Do not write color space information'
-- Click Export
+- Select Export
 
 ![GIMP Palette Editor](https://raw.githubusercontent.com/robertmoro/7ColorEPaperPhotoFrame/main/DocumentationImages/GimpExportImage.png)<br/>
 *GIMP Export Image as BMP dialog*
